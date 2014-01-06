@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ma"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:name="com.example.ma.MyVar"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.ma.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ma.Explanation"
+            android:label="@string/title_activity_explanation" >
+        </activity>
+        <activity
+            android:name="com.example.ma.Step1"
+            android:label="@string/title_activity_step1" >
+        </activity>
+        <activity
+            android:name="com.example.ma.Step2"
+            android:label="@string/title_activity_step2" >
+        </activity>
+        <activity
+            android:name="com.example.ma.Step3"
+            android:label="@string/title_activity_step3" >
+        </activity>
+        <activity
+            android:name="com.example.ma.EditSubVar"
+            android:label="@string/title_activity_edit_sub_var" >
+        </activity>
+        <activity
+            android:name="com.example.ma.Step4"
+            android:label="@string/title_activity_step4" >
+        </activity>
+        <activity
+            android:name="com.example.ma.Step5"
+            android:label="@string/title_activity_step5" >
+        </activity>
+        <activity
+            android:name="com.example.ma.Result"
+            android:label="@string/title_activity_result" >
+        </activity>
+    </application>
+
+</manifest>

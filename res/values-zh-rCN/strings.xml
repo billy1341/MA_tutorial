@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Morphological Analysis 教学</string>
+    <string name="action_settings">设定</string>
+    <string name="language_en">English</string>
+    <string name="language_zh_TW">繁体中文</string>
+    <string name="language_zh_CN">简体中文</string>
+    <string name="start">开始!</string>
+    <string name="next">下一步 -&gt;</string>
+    <string name="result">结果:</string>
+    <string name="restart">重新开始</string>
+    <string name="title_activity_explanation">解释</string>
+    <string name="title_activity_step1">步骤1</string>
+    <string name="title_activity_step2">步骤2</string>
+    <string name="title_activity_step3">步骤3</string>
+    <string name="title_activity_edit_sub_var">编辑变数</string>
+    <string name="title_activity_step4">步骤4</string>
+    <string name="title_activity_step5">步骤5</string>
+    <string name="explanation">Morphological Analysis 或称 General Morphological Analysis 是由 Fritz Zwicky (1967, 1969) 发明，用来找出多维、非量化问题的所有解答。</string>
+    <string name="start_explain">Morphological analysis(MA)教学</string>
+    <string name="explanation_step1">明确地提出问题，并加以解释。</string>
+    <string name="explanation_step2">把问题分解成若干个基本组成部分，每个部分都有明确的定义，并且有其特性。</string>
+    <string name="explanation_step3">建立一个包含所有基本组成部分的多维矩阵(形态模型)，在这个矩阵中应包含所有可能的总的解决方案。</string>
+    <string name="explanation_step4">检查这个矩阵中所有的总方案是否可行，并加以分析和评价。</string>
+    <string name="explanation_step5">对各个可行的总方案进行比较，从中选出一个最佳的总方案。</string>
+    <string name="question">Q.</string>
+    <string name="answer">A.</string><string name="hint_step1">输入问题</string>
+    <string name="hint_step2">主要变量</string>
+    <string name="hint_sub_var">可变变数</string>
+    <string name="add_step2">新增</string>
+    <string name="done">完成</string>
+    <string name="title_activity_result">结果</string>
+    
+    
+    
+
+</resources>
+
